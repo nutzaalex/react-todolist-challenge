@@ -3,3 +3,10 @@
     margin: 0 auto;
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
+
+.error {
+    background-color: #ba0000;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}

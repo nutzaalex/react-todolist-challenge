@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List matches snapshot 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th
+        width="66%"
+      >
+        Item
+      </th>
+      <th>
+        Actions
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        test1
+      </td>
+      <td>
+        <button
+          className="button edit"
+          onClick={[Function]}
+        >
+          Edit
+        </button>
+        <button
+          className="button delete"
+          onClick={[Function]}
+        >
+          Delete
+        </button>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        test2
+      </td>
+      <td>
+        <button
+          className="button edit"
+          onClick={[Function]}
+        >
+          Edit
+        </button>
+        <button
+          className="button delete"
+          onClick={[Function]}
+        >
+          Delete
+        </button>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        test3
+      </td>
+      <td>
+        <button
+          className="button edit"
+          onClick={[Function]}
+        >
+          Edit
+        </button>
+        <button
+          className="button delete"
+          onClick={[Function]}
+        >
+          Delete
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
